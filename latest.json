@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.3",
-  "apkUrl": "https://github.com/Dissenytopteam/topteam-timer/releases/download/v0.2.3/TOPTEAM-GYM-0.2.3.apk",
-  "sha256": "4ce8ded56ff4486a681761cd7f78c9903e34f13ee06e599f56bd6a7df102f88b",
-  "notes": "Version 0.2.3: BACK detiene y vuelve al inicio, parpadeo 3-2-1, reloj Europe/Madrid, timer mas grande e icono rojo."
+  "versionCode": 17,
+  "versionName": "0.2.14",
+  "apkUrl": "https://github.com/Dissenytopteam/topteam-timer/releases/download/v0.2.14/TOPTEAM-GYM-0.2.14.apk",
+  "sha256": "4fb3a3d183e44b0de161c539b68e61dba7b9f32cdee58f6611391dd9c07c4fcd",
+  "notes": "Version final: icono rojo, BACK detiene y vuelve al inicio, parpadeo/beeps 3-2-1, reloj Europe/Madrid y timer mas grande."
 }
