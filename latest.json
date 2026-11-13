@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.2",
-  "apkUrl": "https://github.com/Dissenytopteam/topteam-timer/releases/download/v0.2.2/TOPTEAM-GYM-0.2.2.apk",
-  "sha256": "47974dccf9553d98509cb8482c5373026717f6d06030fb2b29e4e43b98d6d58b",
-  "notes": "Version 0.2.2: prueba del OTA automatico por ADB."
+  "versionCode": 6,
+  "versionName": "0.2.3",
+  "apkUrl": "https://github.com/Dissenytopteam/topteam-timer/releases/download/v0.2.3/TOPTEAM-GYM-0.2.3.apk",
+  "sha256": "4ce8ded56ff4486a681761cd7f78c9903e34f13ee06e599f56bd6a7df102f88b",
+  "notes": "Version 0.2.3: BACK detiene y vuelve al inicio, parpadeo 3-2-1, reloj Europe/Madrid, timer mas grande e icono rojo."
 }
