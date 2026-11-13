@@ -1,0 +1,7 @@
+{
+  "versionCode": 4,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/Dissenytopteam/topteam-timer/releases/download/v0.2.1/TOPTEAM-GYM-0.2.1.apk",
+  "sha256": "e1ce83270d58f6a1a27e7ae4ee22ad0cb4b26993f4629abdeee0f98cd74eaf28",
+  "notes": "Version 0.2.1: icono nuevo, agente de control remoto y volumen por ADB."
+}
